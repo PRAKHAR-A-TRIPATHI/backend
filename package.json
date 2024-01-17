@@ -1,14 +1,11 @@
 {
-  "name": "firstapp",
+  "name": "backend",
   "version": "1.0.0",
-  "description": "basic app",
+  "description": "first app",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": [
-    "node"
-  ],
   "author": "prakhar",
   "license": "ISC",
   "dependencies": {
